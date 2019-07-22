@@ -8,8 +8,8 @@ Listed in reversed chronological order.
 
 ### emg3d: A multigrid solver for 3D electromagnetic diffusion
 
-Main article for emg3d, (generated from the ``paper.*``-files in the ``docs``
-directory of [emg3d](https://github.com/empymod/emg3d)).
+Main article for emg3d (generated from the ``docs/paper.*``-files in the
+[emg3d](https://github.com/empymod/emg3d) repo).
 
 > Werthmüller, D., W. A. Mulder, and E. C. Slob, 2019,
 > emg3d: A multigrid solver for 3D electromagnetic diffusion:
