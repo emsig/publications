@@ -1,9 +1,13 @@
 # Publications related to empymod and emg3d
 
-Listed in reversed chronological order.
+1. [Articles](#user-content-1-articles)
+2. [Books](#user-content-2-books)
+3. [Conferences](#user-content-3-conferences)
+
+The items are listed in reversed chronological order in each category.
 
 
-## Papers
+## 1. Articles
 
 
 ### emg3d: A multigrid solver for 3D electromagnetic diffusion
@@ -52,7 +56,7 @@ Main article for empymod, hosted in the repo
 > DOI: [10.1190/geo2016-0626.1](http://doi.org/10.1190/geo2016-0626.1).
 
 
-## Books
+## 2. Books
 
 
 ### Numerical Examples of Ziolkowski and Slob (2019)
@@ -66,3 +70,7 @@ you can find the notebooks to reproduce the numerical examples given in Chapter
 > Introduction to Controlled-Source Electromagnetic Methods:
 > Cambridge University Press;
 > ISBN: [9781107058620](https://www.cambridge.org/9781107058620).
+
+
+## 3. Conferences
+
