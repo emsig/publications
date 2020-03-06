@@ -10,6 +10,16 @@ The items are listed in reversed chronological order in each category.
 ## 1. Articles
 
 
+### Fast time-domain electromagnetic modelling in the frequency domain
+
+Time-domain modelling with a frequency-domain code such as ``emg3d``, hosted in
+the repo [article-TDEM](https://github.com/empymod/article-TDEM).
+
+> Werthmüller, D., W.A. Mulder, and E.C. Slob, 2020,
+> Fast time-domain electromagnetic modelling in the frequency domain:
+> Submitted to Geophysical Prospecting.
+
+
 ### emg3d: A multigrid solver for 3D electromagnetic diffusion
 
 Main article for emg3d (generated from the ``docs/paper.*``-files in the
@@ -73,4 +83,15 @@ you can find the notebooks to reproduce the numerical examples given in Chapter
 
 
 ## 3. Conferences
+
+
+### Three-dimensional electromagnetic modelling
+
+Abstract submitted for the *5th GeoPython Conference 2020, Bilbao*.
+
+
+### Time-domain CSEM modelling using frequency- and Laplace-domain computations
+
+Abstract submitted for the *82nd EAGE Conference & Exhibition 2020, Amsterdam*.
+
 
