@@ -94,7 +94,7 @@ Abstract submitted for the *5th GeoPython Conference 2020, Bilbao*.
 
 Abstract and e-poster for the *82nd EAGE Conference & Exhibition 2020,
 Amsterdam*; hosted in the repo
-[presentations/eage2020](https://github.com/empymod/presentations/eage2020).
+[presentations > EAGE2020](https://github.com/empymod/presentations/tree/master/EAGE2020).
 
 > Werthmüller, D. and E.C. Slob, 2020, Time-domain CSEM modelling using
 > frequency- and Laplace-domain computations: EAGE Technical Program Expanded
