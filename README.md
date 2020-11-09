@@ -10,14 +10,29 @@ The items are listed in reversed chronological order in each category.
 ## 1. Articles
 
 
+### Open-source landscape for 3D CSEM modelling
+
+A look at different open-source 3D CSEM codes using rectilinear, octree, and
+tetrahedral meshes. The codes under consideration are
+[``emg3d``](https://empymod.github.io/),
+[``custEM``](https://gitlab.com/Rochlitz.R/custEM),
+[``PETGEM``](http://petgem.bsc.es/),
+and [``SimPEG``](https://simpeg.xyz/). The article is hosted in the repo
+[3d-csem-open-source-landscape](https://github.com/empymod/3d-csem-open-source-landscape).
+
+> Werthmüller, D., R. Rochlitz, O. Castillo-Reyes, and L. Heagy, 2020,  
+> Open-source landscape for 3D CSEM modelling:  
+> Submitted to Geophysical Journal International.
+
+
 ### Fast time-domain electromagnetic modelling in the frequency domain
 
 Time-domain modelling with a frequency-domain code such as ``emg3d``, hosted in
 the repo [article-TDEM](https://github.com/empymod/article-TDEM).
 
-> Werthmüller, D., W.A. Mulder, and E.C. Slob, 2020,
-> Fast time-domain electromagnetic modelling in the frequency domain:
-> Submitted to Geophysical Prospecting.
+> Werthmüller, D., W.A. Mulder, and E.C. Slob, 2020,  
+> Fast time-domain electromagnetic modelling in the frequency domain:  
+> Submitted to Geophysical Journal International.
 
 
 ### emg3d: A multigrid solver for 3D electromagnetic diffusion
@@ -25,8 +40,8 @@ the repo [article-TDEM](https://github.com/empymod/article-TDEM).
 Main article for emg3d (generated from the ``docs/paper.*``-files in the
 [emg3d](https://github.com/empymod/emg3d) repo).
 
-> Werthmüller, D., W. A. Mulder, and E. C. Slob, 2019,
-> emg3d: A multigrid solver for 3D electromagnetic diffusion:
+> Werthmüller, D., W. A. Mulder, and E. C. Slob, 2019,  
+> emg3d: A multigrid solver for 3D electromagnetic diffusion:  
 > Journal of Open Source Software, 4(39), 1463;
 > DOI: [10.21105/joss.01463](http://doi.org/10.21105/joss.01463).
 
@@ -36,9 +51,9 @@ Main article for emg3d (generated from the ``docs/paper.*``-files in the
 Article about the filter-designing tool in empymod, hosted in the repo
 [article-fdesign](https://github.com/empymod/article-fdesign).
 
-> Werthmüller, D., K. Key, and E. Slob, 2019,
+> Werthmüller, D., K. Key, and E. Slob, 2019,  
 > A tool for designing digital filters for the Hankel and Fourier transforms in
-> potential, diffusive, and wavefield modeling:
+> potential, diffusive, and wavefield modeling:  
 > Geophysics, 84(2), F47-F56;
 > DOI: [10.1190/geo2018-0069.1](http://doi.org/10.1190/geo2018-0069.1).
 
@@ -48,8 +63,8 @@ Article about the filter-designing tool in empymod, hosted in the repo
 Tutorial-style articel for 1D CSEM modelling, hosted in the repo
 [article-tle2017](https://github.com/empymod/article-tle2017).
 
-> Werthmüller, D., 2017,
-> Getting started with controlled-source electromagnetic 1D modeling:
+> Werthmüller, D., 2017,  
+> Getting started with controlled-source electromagnetic 1D modeling:  
 > The Leading Edge, 36, 352-355;
 > DOI: [10.1190/tle36040352.1](http://dx.doi.org/10.1190/tle36040352.1).
 
@@ -59,9 +74,9 @@ Tutorial-style articel for 1D CSEM modelling, hosted in the repo
 Main article for empymod, hosted in the repo
 [article-geo2017](https://github.com/empymod/article-geo2017).
 
-> Werthmüller, D., 2017,
+> Werthmüller, D., 2017,  
 > An open-source full 3D electromagnetic modeler for 1D VTI media in Python:
-> empymod:
+> empymod:  
 > Geophysics, 82(6), WB9-WB19;
 > DOI: [10.1190/geo2016-0626.1](http://doi.org/10.1190/geo2016-0626.1).
 
@@ -76,19 +91,27 @@ This is not a publication about empymod. But in the repo
 you can find the notebooks to reproduce the numerical examples given in Chapter
 5 of the following book:
 
-> Ziolkowski, A., and E. Slob, 2019,
-> Introduction to Controlled-Source Electromagnetic Methods:
+> Ziolkowski, A., and E. Slob, 2019,  
+> Introduction to Controlled-Source Electromagnetic Methods:  
 > Cambridge University Press;
 > ISBN: [9781107058620](https://www.cambridge.org/9781107058620).
 
 
 ## 3. Conferences
 
+### Open-Source Landscape for Three-Dimensional Controlled-Source Electromagnetic Modeling
+
+Abstract submitted for the *AGU Fall Meeting 2020*.
+
+> Werthmüller, D., R. Rochlitz, O. Castillo-Reyes, and L. Heagy, 2020,  
+> Open-Source Landscape for Three-Dimensional Controlled-Source Electromagnetic Modeling:  
+> AGU Fall Meeting 2020.
 
 ### Three-dimensional electromagnetic modelling
 
 Abstract submitted for the *5th GeoPython Conference 2020, Bilbao*.
 
+*The conference was cancelled due to COVID-19.**
 
 ### Time-domain CSEM modelling using frequency- and Laplace-domain computations
 
@@ -96,6 +119,8 @@ Abstract and e-poster for the *82nd EAGE Conference & Exhibition 2020,
 Amsterdam*; hosted in the repo
 [presentations > EAGE2020](https://github.com/empymod/presentations/tree/master/EAGE2020).
 
-> Werthmüller, D. and E.C. Slob, 2020, Time-domain CSEM modelling using
-> frequency- and Laplace-domain computations: EAGE Technical Program Expanded
-> Abstracts.
+> Werthmüller, D. and E.C. Slob, 2020,  
+> Time-domain CSEM modelling using frequency- and Laplace-domain computations:  
+> EAGE Technical Program Expanded Abstracts.
+
+*The conference was cancelled due to COVID-19; presentation will be given at EAGE 2021.**
