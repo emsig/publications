@@ -10,7 +10,7 @@ The items are listed in reversed chronological order in each category.
 ## 1. Articles
 
 
-- **Open-source landscape for 3D CSEM modelling**
+- **Towards an open-source landscape for 3D CSEM modelling**
 
   A look at different open-source 3D CSEM codes using rectilinear, octree, and
   tetrahedral meshes. The codes under consideration are
@@ -18,20 +18,35 @@ The items are listed in reversed chronological order in each category.
   [``custEM``](https://gitlab.com/Rochlitz.R/custEM),
   [``PETGEM``](http://petgem.bsc.es/),
   and [``SimPEG``](https://simpeg.xyz/). The article is hosted in the repo
-  [3d-csem-open-source-landscape](https://github.com/emsig/3d-csem-open-source-landscape).
+  [swung-research/3d-csem-open-source-landscape](https://github.com/swung-research/3d-csem-open-source-landscape).
 
-  > Werthmüller, D., R. Rochlitz, O. Castillo-Reyes, and L. Heagy, 2020,  
-  > Open-source landscape for 3D CSEM modelling:  
+  > Werthmüller, D., R. Rochlitz, O. Castillo-Reyes, and L. Heagy, 2021,  
+  > Towards an open-source landscape for 3D CSEM modelling:  
   > Submitted to Geophysical Journal International.
 
-- **Fast time-domain electromagnetic modelling in the frequency domain**
+
+- **Fast Fourier transformation of electromagnetic data for computationally expensive kernels**
 
   Time-domain modelling with a frequency-domain code such as ``emg3d``, hosted in
   the repo [article-TDEM](https://github.com/emsig/article-TDEM).
 
-  > Werthmüller, D., W.A. Mulder, and E.C. Slob, 2020,  
-  > Fast time-domain electromagnetic modelling in the frequency domain:  
-  > Submitted to Geophysical Journal International.
+  > Werthmüller, D., W.A. Mulder, and E.C. Slob, 2021,  
+  > Fast Fourier transformation of electromagnetic data for computationally expensive kernels:  
+  > Geophysical Journal International;
+  > DOI: [10.1093/gji/ggab171](http://doi.org/10.1093/gji/ggab171).
+
+
+- **Time‐Domain Modeling of Three‐Dimensional Earth's and Planetary Electromagnetic Induction Effect in Ground and Satellite Observations**
+
+  This article uses the DLF-design capabilities of empymod to design a filter
+  for the inverse Fourier transform of planetary electromagnetic induction
+  effects.
+
+  > Grayver, A., A. Kuvshinov, and D. Werthmüller, 2021,  
+  > Time‐Domain Modeling of Three‐Dimensional Earth's and Planetary Electromagnetic Induction Effect in Ground and Satellite Observations: --
+  > Journal of Geophysical Research: Space Physics 126(3), e2020JA028672;
+  > DOI: [10.1029/2020JA028672](http://doi.org/10.1029/2020JA028672).
+
 
 - **emg3d: A multigrid solver for 3D electromagnetic diffusion**
 
@@ -42,6 +57,7 @@ The items are listed in reversed chronological order in each category.
   > emg3d: A multigrid solver for 3D electromagnetic diffusion:  
   > Journal of Open Source Software, 4(39), 1463;
   > DOI: [10.21105/joss.01463](http://doi.org/10.21105/joss.01463).
+
 
 - **A tool for designing digital filters for the Hankel and Fourier transforms in potential, diffusive, and wavefield modeling**
 
@@ -54,6 +70,7 @@ The items are listed in reversed chronological order in each category.
   > Geophysics, 84(2), F47-F56;
   > DOI: [10.1190/geo2018-0069.1](http://doi.org/10.1190/geo2018-0069.1).
 
+
 - **Getting started with controlled-source electromagnetic 1D modeling**
 
   Tutorial-style articel for 1D CSEM modelling, hosted in the repo
@@ -64,7 +81,8 @@ The items are listed in reversed chronological order in each category.
   > The Leading Edge, 36, 352-355;
   > DOI: [10.1190/tle36040352.1](http://dx.doi.org/10.1190/tle36040352.1).
 
-  - **An open-source full 3D electromagnetic modeler for 1D VTI media in Python: empymod**
+
+- **An open-source full 3D electromagnetic modeler for 1D VTI media in Python: empymod**
 
   Main article for empymod, hosted in the repo
   [article-geo2017](https://github.com/emsig/article-geo2017).
@@ -100,11 +118,13 @@ The items are listed in reversed chronological order in each category.
   > Open-Source Landscape for Three-Dimensional Controlled-Source Electromagnetic Modeling:  
   > AGU Fall Meeting 2020.
 
+
 - **Three-dimensional electromagnetic modelling**
 
   Abstract submitted for the *5th GeoPython Conference 2020, Bilbao*.
 
-  *The conference was cancelled due to COVID-19.**
+  *The conference was cancelled due to COVID-19.*
+
 
 - **Time-domain CSEM modelling using frequency- and Laplace-domain computations**
 
@@ -116,4 +136,4 @@ The items are listed in reversed chronological order in each category.
   > Time-domain CSEM modelling using frequency- and Laplace-domain computations:  
   > EAGE Technical Program Expanded Abstracts.
 
-  *The conference was cancelled due to COVID-19; presentation will be given at EAGE 2021.**
+  *The conference was cancelled due to COVID-19; presentation will be given at EAGE 2021.*
