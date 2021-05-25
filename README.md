@@ -25,13 +25,13 @@ The items are listed in reversed chronological order in each category.
   > Submitted to Geophysical Journal International.
 
 
-- **Fast Fourier transformation of electromagnetic data for computationally expensive kernels**
+- **Fast Fourier transform of electromagnetic data for computationally expensive kernels**
 
   Time-domain modelling with a frequency-domain code such as ``emg3d``, hosted in
   the repo [article-TDEM](https://github.com/emsig/article-TDEM).
 
   > Werthmüller, D., W.A. Mulder, and E.C. Slob, 2021,  
-  > Fast Fourier transformation of electromagnetic data for computationally expensive kernels:  
+  > Fast Fourier transforma of electromagnetic data for computationally expensive kernels:  
   > Geophysical Journal International;
   > DOI: [10.1093/gji/ggab171](http://doi.org/10.1093/gji/ggab171).
 
