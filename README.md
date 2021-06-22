@@ -22,7 +22,9 @@ The items are listed in reversed chronological order in each category.
 
   > Werthmüller, D., R. Rochlitz, O. Castillo-Reyes, and L. Heagy, 2021,  
   > Towards an open-source landscape for 3D CSEM modelling:  
-  > Submitted to Geophysical Journal International.
+  > Geophysical Journal International; ggab238,
+  > DOI: [10.1093/gji/ggab238](https://doi.org/10.1093/gji/ggab238).
+
 
 
 - **Fast Fourier transform of electromagnetic data for computationally expensive kernels**
