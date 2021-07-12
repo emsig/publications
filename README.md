@@ -20,8 +20,8 @@ The items are listed in reversed chronological order in each category.
   and [``SimPEG``](https://simpeg.xyz/). The article is hosted in the repo
   [swung-research/3d-csem-open-source-landscape](https://github.com/swung-research/3d-csem-open-source-landscape).
 
-  > Werthmüller, D., R. Rochlitz, O. Castillo-Reyes, and L. Heagy, 2021,
-  > Towards an open-source landscape for 3-D CSEM modelling:
+  > Werthmüller, D., R. Rochlitz, O. Castillo-Reyes, and L. Heagy, 2021,  
+  > Towards an open-source landscape for 3-D CSEM modelling:  
   > Geophysical Journal International, 227(1), 644-659;
   > DOI: [10.1093/gji/ggab238](https://doi.org/10.1093/gji/ggab238).
 
@@ -31,8 +31,8 @@ The items are listed in reversed chronological order in each category.
   Time-domain modelling with a frequency-domain code such as ``emg3d``, hosted in
   the repo [article-TDEM](https://github.com/emsig/article-TDEM).
 
-  > Werthmüller, D., W.A. Mulder, and E.C. Slob, 2021,
-  > Fast Fourier transform of electromagnetic data for computationally expensive kernels:
+  > Werthmüller, D., W.A. Mulder, and E.C. Slob, 2021,  
+  > Fast Fourier transform of electromagnetic data for computationally expensive kernels:  
   > Geophysical Journal International, 226(2), 1336-1347;
   > DOI: [10.1093/gji/ggab171](https://doi.org/10.1093/gji/ggab171).
 
@@ -45,7 +45,7 @@ The items are listed in reversed chronological order in each category.
 
   > Grayver, A., A. Kuvshinov, and D. Werthmüller, 2021,  
   > Time‐Domain Modeling of Three‐Dimensional Earth's and Planetary Electromagnetic Induction Effect in Ground and Satellite Observations: --
-  > Journal of Geophysical Research: Space Physics 126(3), e2020JA028672;
+  > Journal of Geophysical Research: Space Physics 126(3), e2020JA028672;  
   > DOI: [10.1029/2020JA028672](http://doi.org/10.1029/2020JA028672).
 
 
