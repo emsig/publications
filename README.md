@@ -10,7 +10,7 @@ The items are listed in reversed chronological order in each category.
 ## 1. Articles
 
 
-- **Towards an open-source landscape for 3D CSEM modelling**
+- **Towards an open-source landscape for 3-D CSEM modelling**
 
   A look at different open-source 3D CSEM codes using rectilinear, octree, and
   tetrahedral meshes. The codes under consideration are
@@ -20,11 +20,10 @@ The items are listed in reversed chronological order in each category.
   and [``SimPEG``](https://simpeg.xyz/). The article is hosted in the repo
   [swung-research/3d-csem-open-source-landscape](https://github.com/swung-research/3d-csem-open-source-landscape).
 
-  > Werthmüller, D., R. Rochlitz, O. Castillo-Reyes, and L. Heagy, 2021,  
-  > Towards an open-source landscape for 3D CSEM modelling:  
-  > Geophysical Journal International; ggab238,
+  > Werthmüller, D., R. Rochlitz, O. Castillo-Reyes, and L. Heagy, 2021,
+  > Towards an open-source landscape for 3-D CSEM modelling:
+  > Geophysical Journal International, 227(1), 644-659;
   > DOI: [10.1093/gji/ggab238](https://doi.org/10.1093/gji/ggab238).
-
 
 
 - **Fast Fourier transform of electromagnetic data for computationally expensive kernels**
@@ -32,10 +31,10 @@ The items are listed in reversed chronological order in each category.
   Time-domain modelling with a frequency-domain code such as ``emg3d``, hosted in
   the repo [article-TDEM](https://github.com/emsig/article-TDEM).
 
-  > Werthmüller, D., W.A. Mulder, and E.C. Slob, 2021,  
-  > Fast Fourier transforma of electromagnetic data for computationally expensive kernels:  
-  > Geophysical Journal International;
-  > DOI: [10.1093/gji/ggab171](http://doi.org/10.1093/gji/ggab171).
+  > Werthmüller, D., W.A. Mulder, and E.C. Slob, 2021,
+  > Fast Fourier transform of electromagnetic data for computationally expensive kernels:
+  > Geophysical Journal International, 226(2), 1336-1347;
+  > DOI: [10.1093/gji/ggab171](https://doi.org/10.1093/gji/ggab171).
 
 
 - **Time‐Domain Modeling of Three‐Dimensional Earth's and Planetary Electromagnetic Induction Effect in Ground and Satellite Observations**
