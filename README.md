@@ -132,12 +132,22 @@ The items are listed in reversed chronological order in each category.
 
 - **Time-domain CSEM modelling using frequency- and Laplace-domain computations**
 
-  Abstract and e-poster for the *82nd EAGE Conference & Exhibition 2020,
+  Abstract and e-poster for the *82nd EAGE Conference & Exhibition 2021,
   Amsterdam*; hosted in the repo
   [presentations > EAGE2020](https://github.com/emsig/presentations/tree/master/EAGE2020).
 
-  > Werthmüller, D. and E.C. Slob, 2020,  
+  > Werthmüller, D. and E.C. Slob, 2021,  
   > Time-domain CSEM modelling using frequency- and Laplace-domain computations:  
-  > EAGE Technical Program Expanded Abstracts.
+  > EAGE Technical Program Expanded Abstracts, 1–5,  
+  > DOI: [10.3997/2214-4609.202010319](https://doi.org/10.3997/2214-4609.202010319).
 
-  *The conference was cancelled due to COVID-19; presentation will be given at EAGE 2021.*
+  *Originally submitted for EAGE 2020; due to COVID-19 moved to EAGE 2021.*
+  
+  
+- **Towards accessible large-scale electromagnetic inversion**
+
+  > Kang, S., D. Werthmüller D., L. Heagy, and D. W. Oldenburg, 2021,  
+  > Towards accessible large-scale electromagnetic inversion  
+  > IAGA-IASPE annual meeting 2021.
+
+
