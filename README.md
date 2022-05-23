@@ -146,7 +146,7 @@ The items are listed in reversed chronological order in each category.
   
 - **Towards accessible large-scale electromagnetic inversion**
 
-  > Kang, S., D. Werthmüller D., L. Heagy, and D. W. Oldenburg, 2021,  
+  > Kang, S., D. Werthmüller, L. Heagy, and D. W. Oldenburg, 2021,  
   > Towards accessible large-scale electromagnetic inversion  
   > IAGA-IASPE annual meeting 2021.
 
